@@ -42,11 +42,11 @@ https://dribbble.com/ayyuby
 <img src="https://user-images.githubusercontent.com/18584572/128187516-b24c207e-746f-41a8-9957-3ccf6166d6b0.png" width="1000"  />
 
 
-
-### [5. Info Covid](https://github.com/ayyuby26/Info_Covid)
+-------
+### 5. Info Covid
+https://github.com/ayyuby26/Info_Covid
 #### Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
-<img src="https://user-images.githubusercontent.com/18584572/86500251-085b7680-bdba-11ea-901c-d55b55a92e14.jpg" width="300"  /> 
-
+ <img src="https://user-images.githubusercontent.com/18584572/128621692-d3d20603-95df-4db9-a3ed-420e7555eac6.jpg"  width="300"  /> <img src="https://user-images.githubusercontent.com/18584572/128621676-ec42a37a-a778-4662-81f6-8fe5e49ec82f.jpg" width="300"  />
 
 <!---
 - 👋 Hi, I’m @ayyuby26
