@@ -37,8 +37,9 @@ https://dribbble.com/ayyuby
 
 
 
-### [4. Permohonan SKCK Online](https://github.com/ayyuby26/permohonan-skck-online)
-#### digunakan untuk membantu para pencari kerja yang ingin membuat surat pengantar rt untuk membuat skck, dengan aplikasi ini para pencari kerja dimudahkan untuk membuat surat pengantar tersebut tanpa menggunakan komputer, dengan catatan tetap membutuhkan stempel dari RT setempat agar dokumen yang di cetak menjadi sah. (100% coding me)
+### 4. Permohonan SKCK Online
+https://github.com/ayyuby26/permohonan-skck-online
+#### digunakan untuk membantu para pencari kerja yang ingin membuat surat pengantar rt untuk membuat skck, dengan aplikasi ini para pencari kerja dimudahkan untuk membuat surat pengantar tersebut tanpa menggunakan komputer, dengan catatan tetap membutuhkan stempel dari RT setempat agar dokumen yang di cetak menjadi sah.  
 <img src="https://user-images.githubusercontent.com/18584572/128187516-b24c207e-746f-41a8-9957-3ccf6166d6b0.png" width="1000"  />
 
 
