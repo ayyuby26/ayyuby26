@@ -39,6 +39,7 @@ https://github.com/ayyuby26/stream_sample
 ### ShipsApp
 #### Aplikasi Marketplace yang targetnya adalah pemilik PT di daerah pelabuhan menjual barang-barang / jasa keperluan kapal. Aplikasi ini dibuat saat masih bekerja. (dapat dicoba)
 #### sudah terpasang payment gateway midtrans dan xendit namun keduanya tidak jadi digunakan karena urusan principle
+#### sudah terpasang fitur notifikasi (firebase) namun ntah kenapa tidak digunakan, sampai saya resign
 #### note: terakhir kali saya lihat aplikasinya, terdapat perubahan data di API, sehingga terdapat satu halaman tidak dapat load dengan baik  
 #### Link Playstore: https://play.google.com/store/apps/details?id=com.ssd.shipsapp  
 #### Perbaikan UI (not publish) : https://www.youtube.com/watch?v=6Soa_TI9rck&pp=sAQA
