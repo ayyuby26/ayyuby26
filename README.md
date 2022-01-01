@@ -44,7 +44,7 @@ https://github.com/ayyuby26/stream_sample
 
 <img src="https://user-images.githubusercontent.com/18584572/128326353-07b033d9-f189-4a66-9958-a655dfa9a72d.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326348-729a7a4e-b19f-4ed1-a341-11b975cc3b15.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326342-f47e038f-1719-4b27-ac86-604a578d18cf.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326333-4006c2c4-37cf-4495-8b0b-91995ef658f3.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326325-cb2d6e6b-17a1-480e-adb2-c34be486dcc9.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326317-871f68e9-8276-4e07-a78c-e1aeaac66091.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326304-883900c3-4394-4695-946a-eca9026999c3.jpg" width="200"  />
 
-#disclaimer: screenshot diatas adalah UI yang sudah diperbaiki dan sedangkan di playstore merupakan versi awal
+#### disclaimer: screenshot diatas adalah UI yang sudah diperbaiki dan sedangkan di playstore merupakan versi awal
 
 -------
 
