@@ -37,7 +37,7 @@ https://github.com/ayyuby26/stream_sample
 ---
 
 ### ShipsApp
-#### Aplikasi Marketplace untuk pemilik PT di daerah pelabuhan, menjual barang-barang keperluan kapal. Dibuat saat masih bekerja. (dapat dicoba)
+#### Aplikasi Marketplace yang targetnya adalah pemilik PT di daerah pelabuhan menjual barang-barang / jasa keperluan kapal. Aplikasi ini dibuat saat masih bekerja. (dapat dicoba)
 #### note: terakhir kali saya lihat aplikasinya, terdapat perubahan data di API, sehingga terdapat satu halaman tidak dapat load dengan baik  
 #### Link Playstore: https://play.google.com/store/apps/details?id=com.ssd.shipsapp  
 #### Perbaikan UI (not publish) : https://www.youtube.com/watch?v=6Soa_TI9rck&pp=sAQA
