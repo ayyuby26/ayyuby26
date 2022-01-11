@@ -29,14 +29,13 @@ dapat menggunakan unit test sebagai TDD Development
 
 ### Stream Data
 https://github.com/ayyuby26/stream_sample
-#### demo: https://youtu.be/JHE6cgZY0_I
 
 - rx dart
 - cloud firestore
 - bloc pattern  
 
- <img src="https://user-images.githubusercontent.com/18584572/147854368-6d4969bc-27e8-444c-8631-bb1fa83fbd69.png" width="400"  /> <img src="https://user-images.githubusercontent.com/18584572/147854352-344ebab5-504a-4594-a902-7e68da795edf.png" width="400"  />
- 
+![stream app](https://user-images.githubusercontent.com/18584572/148972468-2e176f85-6ad9-4849-863a-ab8f05afa83b.gif)
+
 -------
 
 ### portfolio (on progress)
