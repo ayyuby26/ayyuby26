@@ -29,7 +29,7 @@ dapat menggunakan unit test sebagai TDD Development
 
 ### Stream Data
 https://github.com/ayyuby26/stream_sample
-
+(data otomatis terupdate tanpa di reload)
 - rx dart
 - cloud firestore
 - bloc pattern  
