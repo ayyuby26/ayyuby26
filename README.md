@@ -18,6 +18,25 @@ https://dribbble.com/ayyuby  -->
 
 #FLUTTER
 
+### Pesut Mahakam
+Digunakan agar masyarakat kalimantan dapat dengan mudah membuat laporan yang membutuhkan bantuan polisi.
+
+<img src="https://user-images.githubusercontent.com/18584572/175761237-dc7fbd5f-662d-45de-8822-6920107dfd76.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761273-224c70c8-ed93-47f9-a5e5-904831ef516e.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761291-aaba0c0b-32e3-44b2-bcef-7a537ea2e5a8.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761308-6dbb5999-33bf-4580-a607-b97873de8e6b.jpg" width="200"/> 
+
+-------
+
+
+### mPIMS
+aplikasi yang berfungsi untuk mencatat hasil panen kelapa sawit.
+tugas saya dalam aplikasi ini:
+- memperbaiki bug2
+- menambahkan fitur pengelolaan data json
+- auto backup data ke kartu memori, dengan kondisi data terkompres, terenkripsi, dan tipe data kustom
+
+<img src="https://user-images.githubusercontent.com/18584572/175760694-9799672a-b672-4ad6-98bf-84393cf330a4.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175760915-693abf4a-746f-4ae6-917c-7a8f3401caaf.jpg" width="400"/> <img src="https://user-images.githubusercontent.com/18584572/175760735-86b5da40-f967-43c7-ac59-320d082d53da.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175760743-105b533a-e000-46e4-b8df-6e965ac6eb88.jpg" width="200"/>  <img src="https://user-images.githubusercontent.com/18584572/175760746-dc628ca7-b76d-4f71-9dbb-4c6e22565056.jpg" width="200"/> 
+
+-------
+
 ### Unit Test
 https://github.com/ayyuby26/unit_test
 
