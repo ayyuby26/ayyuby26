@@ -29,7 +29,8 @@ Link Download: https://play.google.com/store/apps/details?id=com.poldakaltim.pes
 
 
 ### mPIMS
-aplikasi yang berfungsi untuk mencatat hasil panen kelapa sawit.
+aplikasi yang berfungsi untuk mencatat hasil panen kelapa sawit. 90% offline, data local sebagai penyimpanan utama menggunakan hive dengan query yang dioptimalkan agar berjalan cepat
+
 tugas saya dalam aplikasi ini:
 - memperbaiki bug2
 - menambahkan fitur pengelolaan data json
