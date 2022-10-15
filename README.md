@@ -19,7 +19,9 @@ https://dribbble.com/ayyuby  -->
 #FLUTTER
 
 ### Pesut Mahakam
-Digunakan agar masyarakat kalimantan dapat dengan mudah membuat laporan yang membutuhkan bantuan polisi.
+Digunakan agar masyarakat kalimantan Timur dapat deng`an mudah membuat laporan yang membutuhkan bantuan polisi.
+
+Link Download: https://play.google.com/store/apps/details?id=com.poldakaltim.pesutmahakam
 
 <img src="https://user-images.githubusercontent.com/18584572/175761237-dc7fbd5f-662d-45de-8822-6920107dfd76.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761273-224c70c8-ed93-47f9-a5e5-904831ef516e.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761291-aaba0c0b-32e3-44b2-bcef-7a537ea2e5a8.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761308-6dbb5999-33bf-4580-a607-b97873de8e6b.jpg" width="200"/> 
 
