@@ -18,6 +18,21 @@ https://dribbble.com/ayyuby  -->
 
 #FLUTTER
 
+### Oresa
+Penyalur produk uji coba berjenis _fast moving consumer goods_ agar mendapat ulasan dari reviewer online
+
+Link Download: [PlayStore](https://play.google.com/store/apps/details?id=com.omg_indo.oresa) | [AppStore](https://apps.apple.com/id/app/oresa/id1528505005)
+
+frontend tech stack:
+- State Management = bloc
+- router manager   = auto_route
+- local storage    = hive
+- notification     = onesignal
+
+<img src="https://user-images.githubusercontent.com/18584572/217563802-acddd085-f2ca-4639-9f9f-c862afc3eb8c.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564006-397acd93-a9be-4e10-8026-d9e7da7bf17e.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564696-9f65a3be-1502-49fa-834d-016aec6208fd.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564354-d1b3f9d9-a40f-4374-8351-2ae29cf4da83.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564449-cf1e72c1-6ddd-4e16-982c-32d668b35034.jpg" width="200"/> 
+
+-------
+
 ### Pesut Mahakam
 Digunakan agar masyarakat kalimantan Timur dapat deng`an mudah membuat laporan yang membutuhkan bantuan polisi.
 
@@ -60,12 +75,12 @@ https://github.com/ayyuby26/stream_sample
 
 -------
 
-### portfolio (on progress)
-#### website https://ayyuby26.github.io
+<!-- ### portfolio (on progress) -->
+<!-- #### website https://ayyuby26.github.io -->
 
-<img src="https://user-images.githubusercontent.com/18584572/128062732-e961d379-b7ef-40a1-bf76-710c4db7d4a2.png" width="500"  />
+<!-- <img src="https://user-images.githubusercontent.com/18584572/128062732-e961d379-b7ef-40a1-bf76-710c4db7d4a2.png" width="500"  /> -->
 
----
+<!-- --- -->
 
 ### ShipsApp
 #### Aplikasi Marketplace yang targetnya adalah pemilik PT di daerah pelabuhan menjual barang-barang / jasa keperluan kapal. Aplikasi ini dibuat saat masih bekerja. (dapat dicoba)
