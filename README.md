@@ -18,6 +18,17 @@ https://dribbble.com/ayyuby  -->
 
 #FLUTTER
 
+### Sample Graphql
+contoh sederhana penerapan graphql di flutter
+
+Link Download APK: https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true
+
+repository: https://github.com/ayyuby26/sample_graphql
+
+<img src="https://user-images.githubusercontent.com/18584572/223690759-fda076e1-c9d7-40b4-ae71-2fc89b044fcc.png" width="200"/> 
+
+-------
+
 ### Oresa
 Penyalur produk uji coba berjenis _fast moving consumer goods_ agar mendapat ulasan dari reviewer online
 
