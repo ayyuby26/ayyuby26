@@ -29,6 +29,27 @@ repository: https://github.com/ayyuby26/sample_graphql
 
 -------
 
+### Google Maps Clean Architecture + SOLID Principle
+contoh sederhana penerapan Google Maps Clean Architecture + SOLID Principle
+
+#### implement:
+- clean architecture
+- solid principle
+- one testing example
+- singleton
+
+#### tech stack:
+- state management = BLoC
+- depedency injection = get_it
+
+Link Download APK: [https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true](https://github.com/ayyuby26/game-cosign/raw/master/app-release.apk)
+
+repository: [https://github.com/ayyuby26/sample_graphql](https://github.com/ayyuby26/game-cosign)
+
+<img src="https://user-images.githubusercontent.com/18584572/223203956-d84bb48c-a552-456a-b7b7-ac80efa14568.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/223204511-23642ca2-dbf5-44e7-9bd5-361cce64d278.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/223204636-b5f342d4-d5bb-4f9e-93b4-113f2024e81f.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/223204921-3847875e-5575-4aec-907a-1f3dbfbfb637.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/223204997-77127e2b-9849-4074-834e-639bcabf9ac9.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/223205096-b8d9241f-ad44-4246-830b-e9341d4e5bfb.jpg" width="200"/>
+
+-------
+
 ### Oresa
 Penyalur produk uji coba berjenis _fast moving consumer goods_ agar mendapat ulasan dari reviewer online
 
