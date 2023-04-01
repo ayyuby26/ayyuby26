@@ -1,3 +1,18 @@
+<h1 align="center">
+  <b>Shalahudin Al Ayyuby</b>
+</h1>
+<p align="center">
+   Flutter Developer
+ </p>
+<br/>
+<p align="center">
+  <a href="https://ayyuby26.github.io/">
+    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=ayyuby26" />
+    &nbsp;
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyuby26&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
 # Project yang pernah dikerjakan
 
 #PHP
