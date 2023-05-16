@@ -33,6 +33,20 @@ https://dribbble.com/ayyuby  -->
 
 #FLUTTER
 
+### Music Player
+Aplikasi Music Player dengan menerapkan seperti berikut:
+- SOLID Principle
+- Clean Architecture
+- BLOC State Management
+
+Link Download APK: https://gitlab.com/anehidup/music_player/uploads/67fcce2b733074ea0e9eb336813a8117/app-release.apk
+
+repository: https://gitlab.com/anehidup/music_player
+
+<img src="https://gitlab.com/anehidup/music_player/uploads/afd431857a20d4c0efeda9be14e6af9e/photo_6278242383246243659_y.jpg" width="200"/> <img src="https://gitlab.com/anehidup/music_player/uploads/b0008ac7a50febbe14ad7d8ccf2a4870/photo_6278242383246243660_y.jpg" width="200"/> <img src="https://gitlab.com/anehidup/music_player/uploads/2971d8b1c99b54b7a6cfad65cdd4eabd/photo_6278242383246243661_y.jpg" width="200"/> 
+
+-------
+
 ### Sample Graphql
 contoh sederhana penerapan graphql di flutter
 
