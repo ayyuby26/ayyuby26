@@ -1,25 +1,9 @@
-<h1 align="center">
-  <b>Shalahudin Al Ayyuby</b>
-</h1>
-<p align="center">
-   Flutter Developer
- </p>
-<br/>
-<p align="center">
-  <a href="https://ayyuby26.github.io/">
-    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=ayyuby26" />
-    &nbsp;
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyuby26&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
 # Project yang pernah dikerjakan
 
 #PHP
 ### SPP (Codeigniter 3)
 #### Untuk menyimpan data pembayaran SPP (Data Dummy)
-<img src="https://user-images.githubusercontent.com/18584572/142142146-911cde5d-9770-4619-8e7b-cf2d863be3d7.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142250-672fd0a3-8a73-4c24-90da-6c0f962a1681.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142331-349bb874-7711-4996-92ab-ef13db155478.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142141380-92815790-6cb3-4008-952b-e9c5457702d7.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142374-077942ca-ec39-4ed7-ab21-843b26726ef2.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142741-5cb83395-d520-4e3a-90b3-a2daaadd243a.png" width="440"/>
-
+<img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/74543dd4-5668-4d40-865d-8f063ba945a2" width="1140"/>
 
 ### Storing Gudang (Codeigniter 3)
 #### Untuk menyimpan data barang di gudang
