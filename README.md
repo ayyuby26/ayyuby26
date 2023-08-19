@@ -1,6 +1,4 @@
-# Project yang pernah dikerjakan
-
-#PHP
+## PHP
 ### SPP (Codeigniter 3)
 #### Untuk menyimpan data pembayaran SPP (Data Dummy)
 <img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/74543dd4-5668-4d40-865d-8f063ba945a2" width="1140"/>
@@ -15,7 +13,17 @@ https://dribbble.com/ayyuby  -->
 
 -----------
 
-#FLUTTER
+## FLUTTER
+
+### Mascip
+Aplikasi untuk melakukan laporan dan maintenance tugboat (Aplikasi Internal)
+- Get_It
+- BLOC State Management
+
+<img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/53e105ef-3093-4df8-b308-fd8537806dde" width="200"/> 
+<img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/dfd6c0c3-84c2-4a2d-9067-4a3490d9cc83" width="200"/>  
+<img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/d7ba4e0c-dd7d-4a7d-88fc-c241ecb4276a" width="200"/> 
+---
 
 ### Music Player
 Aplikasi Music Player dengan menerapkan seperti berikut:
