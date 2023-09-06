@@ -1,10 +1,10 @@
 ## PHP
 ### SPP (Codeigniter 3)
-#### Untuk menyimpan data pembayaran SPP (Data Dummy)
+#### To store SPP payment data
 <img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/74543dd4-5668-4d40-865d-8f063ba945a2" width="1140"/>
 
-### Storing Gudang (Codeigniter 3)
-#### Untuk menyimpan data barang di gudang
+### Storing Warehouse (Codeigniter 3)
+#### To store goods data in the warehouse
 <img src="https://user-images.githubusercontent.com/18584572/128601959-cdea4c3b-b38e-42c9-8131-02bc1bfbbbf8.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/128602103-d90f778a-ea17-4465-a135-cda33bd5d6f9.png" width="440"/>
 
 <!-- -----------
@@ -16,7 +16,7 @@ https://dribbble.com/ayyuby  -->
 ## FLUTTER
 
 ### Mascip
-Aplikasi untuk melakukan laporan dan maintenance tugboat (Aplikasi Internal)
+An application for reporting and maintaining tugboat tasks (Internal Application)
 - Get_It
 - BLOC State Management
 - hive
@@ -36,12 +36,12 @@ Aplikasi untuk melakukan laporan dan maintenance tugboat (Aplikasi Internal)
 ---
 
 ### Music Player
-Aplikasi Music Player dengan menerapkan seperti berikut:
+A Music Player application implementing the following:
 - SOLID Principle
 - Clean Architecture
 - BLOC State Management
 
-Link Download APK: https://gitlab.com/anehidup/music_player/uploads/67fcce2b733074ea0e9eb336813a8117/app-release.apk
+Download Link for APK: https://gitlab.com/anehidup/music_player/uploads/67fcce2b733074ea0e9eb336813a8117/app-release.apk
 
 repository: https://gitlab.com/anehidup/music_player
 
@@ -50,9 +50,9 @@ repository: https://gitlab.com/anehidup/music_player
 -------
 
 ### Sample Graphql
-contoh sederhana penerapan graphql di flutter
+A simple example of implementing GraphQL in Flutter
 
-Link Download APK: https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true
+Download Link for APK: https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true
 
 repository: https://github.com/ayyuby26/sample_graphql
 
@@ -61,7 +61,7 @@ repository: https://github.com/ayyuby26/sample_graphql
 -------
 
 ### Google Maps Clean Architecture + SOLID Principle
-contoh sederhana penerapan Google Maps Clean Architecture + SOLID Principle
+A simple example of implementing Google Maps Clean Architecture + SOLID Principle
 
 #### implement:
 - clean architecture
@@ -73,7 +73,7 @@ contoh sederhana penerapan Google Maps Clean Architecture + SOLID Principle
 - state management = BLoC
 - depedency injection = get_it
 
-Link Download APK: [https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true](https://github.com/ayyuby26/game-cosign/raw/master/app-release.apk)
+Download Link for APK: [https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true](https://github.com/ayyuby26/game-cosign/raw/master/app-release.apk)
 
 repository: [https://github.com/ayyuby26/sample_graphql](https://github.com/ayyuby26/game-cosign)
 
@@ -82,9 +82,9 @@ repository: [https://github.com/ayyuby26/sample_graphql](https://github.com/ayyu
 -------
 
 ### Oresa
-Penyalur produk uji coba berjenis _fast moving consumer goods_ agar mendapat ulasan dari reviewer online
+A platform for distributing fast-moving consumer goods for online reviewers
 
-Link Download: [PlayStore](https://play.google.com/store/apps/details?id=com.omg_indo.oresa) | [AppStore](https://apps.apple.com/id/app/oresa/id1528505005)
+Download Links: [PlayStore](https://play.google.com/store/apps/details?id=com.omg_indo.oresa) | [AppStore](https://apps.apple.com/id/app/oresa/id1528505005)
 
 frontend tech stack:
 - State Management = bloc
@@ -97,7 +97,7 @@ frontend tech stack:
 -------
 
 ### Pesut Mahakam
-Digunakan agar masyarakat kalimantan Timur dapat deng`an mudah membuat laporan yang membutuhkan bantuan polisi.
+Used so that the East Kalimantan community can easily create reports that require police assistance.
 
 Link Download: https://play.google.com/store/apps/details?id=com.poldakaltim.pesutmahakam
 
@@ -107,12 +107,12 @@ Link Download: https://play.google.com/store/apps/details?id=com.poldakaltim.pes
 
 
 ### mPIMS
-aplikasi yang berfungsi untuk mencatat hasil panen kelapa sawit. 90% offline, data local sebagai penyimpanan utama menggunakan hive dengan query yang dioptimalkan agar berjalan cepat
+An application used to record oil palm harvest results. 90% offline, local data as the primary storage using Hive with optimized queries for fast performance.
 
-tugas saya dalam aplikasi ini:
-- memperbaiki bug2
-- menambahkan fitur pengelolaan data json
-- auto backup data ke kartu memori, dengan kondisi data terkompres, terenkripsi, dan tipe data kustom
+My tasks in this application:
+- Fixing bugs
+- Adding JSON data management features
+- Auto backup data to the memory card, with compressed, encrypted, and custom data type conditions.
 
 <img src="https://user-images.githubusercontent.com/18584572/175760694-9799672a-b672-4ad6-98bf-84393cf330a4.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175760915-693abf4a-746f-4ae6-917c-7a8f3401caaf.jpg" width="400"/> <img src="https://user-images.githubusercontent.com/18584572/175760735-86b5da40-f967-43c7-ac59-320d082d53da.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175760743-105b533a-e000-46e4-b8df-6e965ac6eb88.jpg" width="200"/>  <img src="https://user-images.githubusercontent.com/18584572/175760746-dc628ca7-b76d-4f71-9dbb-4c6e22565056.jpg" width="200"/> 
 
@@ -121,7 +121,7 @@ tugas saya dalam aplikasi ini:
 ### Unit Test
 https://github.com/ayyuby26/unit_test
 
-dapat menggunakan unit test sebagai TDD Development
+Can be used for unit tests as part of Test-Driven Development (TDD).
 
 ![image](https://user-images.githubusercontent.com/18584572/148969792-c9b64bf2-71b8-4b73-9334-9ef19eeeaa45.png)
  
@@ -129,7 +129,8 @@ dapat menggunakan unit test sebagai TDD Development
 
 ### Stream Data
 https://github.com/ayyuby26/stream_sample
-(data otomatis terupdate tanpa di reload)
+(Data updates automatically without reloading)
+
 - rx dart
 - cloud firestore
 - bloc pattern  
@@ -146,28 +147,23 @@ https://github.com/ayyuby26/stream_sample
 <!-- --- -->
 
 ### ShipsApp
-#### Aplikasi Marketplace yang targetnya adalah pemilik PT di daerah pelabuhan menjual barang-barang / jasa keperluan kapal. Aplikasi ini dibuat saat masih bekerja. (dapat dicoba)
-#### sudah terpasang payment gateway midtrans dan xendit namun keduanya tidak jadi digunakan karena urusan principle
-#### sudah terpasang fitur notifikasi (firebase) namun ntah kenapa tidak digunakan, sampai saya resign
-#### note: terakhir kali saya lihat aplikasinya, terdapat perubahan data di API, sehingga terdapat satu halaman tidak dapat load dengan baik  
-#### Link Playstore: https://play.google.com/store/apps/details?id=com.ssd.shipsapp  
-#### Perbaikan UI (not publish) : https://www.youtube.com/watch?v=6Soa_TI9rck&pp=sAQA
+#### A marketplace application targeting PT owners in port areas to sell goods/services required for ships.
 
 <img src="https://user-images.githubusercontent.com/18584572/128326353-07b033d9-f189-4a66-9958-a655dfa9a72d.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326348-729a7a4e-b19f-4ed1-a341-11b975cc3b15.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326342-f47e038f-1719-4b27-ac86-604a578d18cf.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326333-4006c2c4-37cf-4495-8b0b-91995ef658f3.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326325-cb2d6e6b-17a1-480e-adb2-c34be486dcc9.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326317-871f68e9-8276-4e07-a78c-e1aeaac66091.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326304-883900c3-4394-4695-946a-eca9026999c3.jpg" width="200"  />
 
-#### disclaimer: screenshot diatas adalah UI yang sudah diperbaiki dan sedangkan di playstore merupakan versi awal
+#### disclaimer: The screenshots above are of the improved UI, while the Playstore version is the initial version.
 
 -------
 
 ### Timeheet
-#### Mempermudah untuk memantau pekerjaan di lapangan, misalnya petugas menaik/menurunkan barang dari kapal lalu menulis aktivitas tersebut diaplikasi, lalu atasannya dapat melihat aktivitas tersebut (untuk kepentingan internal, tidak dapat registrasi)
-#### Link play store : https://play.google.com/store/apps/details?id=com.ssd.timesheet
+#### Makes it easy to monitor fieldwork, such as when an employee loads/unloads cargo from a ship and then writes that activity in the app. Their supervisors can then view these activities (for internal purposes).
+#### play store link: https://play.google.com/store/apps/details?id=com.ssd.timesheet
 <img src="https://user-images.githubusercontent.com/18584572/147854901-68235e39-a783-4788-9792-473303cd85f5.png" width="200"  /> <img src="https://play-lh.googleusercontent.com/lj3kR54g95qBe0PGeoo7UAoBoOHWXMrtkwtI1p99MAjc43BgcqHx_S9plPIJ31bKaZA=w1920-h963" width="200"  /> <img src="https://play-lh.googleusercontent.com/M6FnW7qsfVBGBJ40FxrNKmbI6QYHQl3EIK7wCRQg_9JhZ8fGiPo7siSm0GclO0dtxpMX=w1920-h963" width="200"  /> <img src="https://play-lh.googleusercontent.com/NNeqda22waDGStud_li_E54U6deCEcatIfyxsY-V3c20QnRjFH2Hb1wUPEQ8CoRzsH1B=w1920-h963" width="200"  /> <img src="https://play-lh.googleusercontent.com/vyDt-h83xKi9GX7Yyy52zkRvoCJHSsQaqkdoqCNYnsbDN0th_VKtEuAwUqY7xGBbcSsk=w1920-h963" width="200"  />
 
 -------
 
 ### MyNote
-#### aplikasi untuk membuat catatan
+#### An app for creating notes
 #### https://github.com/ayyuby26/mynote
 <img src="https://user-images.githubusercontent.com/18584572/128185515-85ed9892-0579-42f5-94ef-f2e601335f2e.png" width="900"  />
 
@@ -175,14 +171,14 @@ https://github.com/ayyuby26/stream_sample
 
 ### Permohonan SKCK Online
 https://github.com/ayyuby26/permohonan-skck-online
-#### digunakan untuk membantu para pencari kerja yang ingin membuat surat pengantar rt untuk membuat skck, dengan aplikasi ini para pencari kerja dimudahkan untuk membuat surat pengantar tersebut tanpa menggunakan komputer, dengan catatan tetap membutuhkan stempel dari RT setempat agar dokumen yang di cetak menjadi sah.  
+#### Used to help job seekers who want to create an RT endorsement letter to apply for a Police Certificate of Good Conduct (SKCK). With this application, job seekers are facilitated in creating the endorsement letter without using a computer, with the condition that a stamp from the local RT is still needed to make the printed document valid.
 <img src="https://user-images.githubusercontent.com/18584572/128187516-b24c207e-746f-41a8-9957-3ccf6166d6b0.png" width="1000"  />
 
 -------
 
 ### Info Covid
 https://github.com/ayyuby26/Info_Covid
-#### Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
+#### An application to provide information on the development of the Covid virus in Indonesia, with data obtained from kawalcorona.com
  <img src="https://user-images.githubusercontent.com/18584572/128621692-d3d20603-95df-4db9-a3ed-420e7555eac6.jpg"  width="300"  /> <img src="https://user-images.githubusercontent.com/18584572/128621676-ec42a37a-a778-4662-81f6-8fe5e49ec82f.jpg" width="300"  />
 
 <!---
