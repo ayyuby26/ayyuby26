@@ -15,6 +15,21 @@ https://dribbble.com/ayyuby  -->
 
 ## FLUTTER
 
+### WMS Internal App
+An internal application that has various roles for warehouse stock, shipping of goods, transactions, and attendance
+- go router
+- BLoC State Management
+- provider
+- shared preferences
+- firebase analytics, crashlytics
+- http
+- geolocator
+- printer bluetooth
+
+<img src="https://gitlab.com/-/project/44357593/uploads/4cbb29c6196a5712f189f46fcc1dd95b/Screenshot_1724138707.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/2659027e5a43c767462a5750c3e249fc/Screenshot_1724138712.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/5c9babf594faefa95563e93690763b7d/Screenshot_1724138728.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/49732c85438c1986a11c42a4b6fc08ff/Screenshot_1724138739.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/5cff74ab13e3ad04ef70e0060a2e14bb/Screenshot_1724138748.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/3aaf429485072fd9333ac62834940fda/Screenshot_1724138753.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/dd3addbc71c269c560ad86bed32b8668/Screenshot_1724138758.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/e14995eff20c9ada5db1ae7c1fe64e2e/Screenshot_1724138765.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/45fc8013eb7fcba849a3e6a4cf78cb94/Screenshot_1724138771.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/f292c0af3e9215b79f8db9bba7030f3d/Screenshot_1724138778.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/dd4c2f9e7eb863124075de4c8cc49f7e/Screenshot_1724138795.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/8be6cf5507b9dac9a3b75113d781dbfe/Screenshot_1724138800.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/cab3821e9ec45f301b32df843ec8d12b/Screenshot_1724138854.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/80aea06e66d570c260ac4dca526d1a32/Screenshot_1724138864.png" width="200"/>
+
+---
+
 ### Mascip
 An application for reporting and maintaining tugboat tasks (Internal Application)
 - Get_It
