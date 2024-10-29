@@ -1,13 +1,46 @@
+- 👋 Hi, I’m Ayyuby
+- 👀 I’m interested in UI/UX, Flutter, Web
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shalahudin-al-ayyuby-2b4986178)
+<!-- - 🌱 I’m currently learning ...
+ - 💞️ I’m looking to collaborate on ... -->
+
 # Project yang pernah dikerjakan
 
-#PHP
-### SPP (Codeigniter 3)
-#### Untuk menyimpan data pembayaran SPP (Data Dummy)
+### Pembayaran SPP
+Untuk menyimpan data pembayaran SPP
+#### Teknologi:
+- Codeigniter 3
+- MySQL
+- Bootstrap
+- Javascript
+#### Fitur yang saya kerjakan:
+- Kelola kelas
+- Kelola siswa
+- Kelola pembayaran
+- generate PDF
+- Laporan pembayaran
+#### Kontribusi:
+- Rancang Database
+- Rancang UI
+- Koding front end
+- Koding Back End
+
 <img src="https://user-images.githubusercontent.com/18584572/142142146-911cde5d-9770-4619-8e7b-cf2d863be3d7.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142250-672fd0a3-8a73-4c24-90da-6c0f962a1681.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142331-349bb874-7711-4996-92ab-ef13db155478.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142141380-92815790-6cb3-4008-952b-e9c5457702d7.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142374-077942ca-ec39-4ed7-ab21-843b26726ef2.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142741-5cb83395-d520-4e3a-90b3-a2daaadd243a.png" width="440"/>
 
 
-### Storing Gudang (Codeigniter 3)
-#### Untuk menyimpan data barang di gudang
+### Storing Gudang
+Untuk menyimpan data barang di gudang
+#### Teknologi:
+- Codeigniter 3
+- MySQL
+- Bootstrap
+- Javascript
+#### Fitur yang saya kerjakan:
+- Download file
+- Kelola barang
+#### Kontribusi:
+- Koding front end
+
 <img src="https://user-images.githubusercontent.com/18584572/128601959-cdea4c3b-b38e-42c9-8131-02bc1bfbbbf8.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/128602103-d90f778a-ea17-4465-a135-cda33bd5d6f9.png" width="440"/>
 
 <!-- -----------
@@ -15,12 +48,30 @@
 https://dribbble.com/ayyuby  -->
 
 -----------
-
-#FLUTTER
-
-
-### ERA Mobile
-Application for home marketing, I only work on the front end (mobile)
+### ERA Mobile - Marketing Rumah
+Aplikasi untuk memasarkan rumah di indonesia
+#### Teknologi:
+- Flutter
+- GetX
+- Firebase Messaging Notification
+- Firebase Crashlytics
+- Firebase Analytics
+- Shared preferences
+- generate gambar ([preview](https://gitlab.com/-/project/44357593/uploads/d79bb4a85c410a6d0925e89e7758ccb3/WhatsApp_Image_2024-10-29_at_09.08.57.jpeg))
+#### Fitur yang saya kerjakan:
+- Multi bahasa
+- Multi role
+- Kelola postingan rumah
+- E-commerce
+- Kelola dokumen
+- tampilan struktur organisasi
+- video player
+- ttd generator (gambar)
+- Kalkulator KPR
+- notifikasi
+#### Kontribusi:
+- Koding front end
+- Kelola Publishing di Play Store & App Store
 
 Download: [PlayStore](https://play.google.com/store/apps/details?id=com.eraproperty) | [AppStore](https://apps.apple.com/id/app/era-mobile-era-indonesia/id1274872297)
 
@@ -28,8 +79,24 @@ Download: [PlayStore](https://play.google.com/store/apps/details?id=com.eraprope
 
 ---
 
-### WMS Affiliator
-This application is a kind of e-commerce but there is only one shop, the features in this application include points, vouchers, and affiliates, I only work on the front end
+### Asiagolf Points - Golf E-commerce
+Aplikasi untuk jual beli barang yang berkaitan dengan golf
+#### Teknologi:
+- Flutter
+- BLoC
+- Hive
+- deep link
+- Auto route
+#### Fitur yang saya kerjakan:
+- Gambar carousel dengan caching
+- Ambil titik koordinat dengan Open Street
+- voucher
+- afiliasi
+- hadiah poin
+- multi role
+#### Kontribusi:
+- Koding front end
+- Kelola Publishing di App Store
 
 Download: [PlayStore](https://play.google.com/store/apps/details?id=id.asiagolf.app) | [AppStore](https://apps.apple.com/id/app/era-mobile-era-indonesia/id6633417013)
 
@@ -37,15 +104,38 @@ Download: [PlayStore](https://play.google.com/store/apps/details?id=id.asiagolf.
 
 ---
 
-### WMS Internal App
+### 
 An internal application that has various roles for warehouse stock, shipping of goods, transactions, and attendance, and I only work on the front end
+
+### WMS Asia Internal - Internal Perusahaan & dashboard Asiagolf Points 
+Aplikasi semacam admin dashboard untuk kelola kar aplikasi Asiagolf points yang mengatur seperti pengiriman barang, kelola barang, lomba golf, kehadiran karyawan.
+#### Teknologi:
+- Flutter
+- BLoC & Provider
+- Shared preferences
+#### Fitur yang saya kerjakan:
+- Modul kompetisi, training, tanya stok, dan mengupdate modul-modul yang sudah ada
+#### Kontribusi:
+- Koding front end
 
 <img src="https://gitlab.com/-/project/44357593/uploads/4cbb29c6196a5712f189f46fcc1dd95b/Screenshot_1724138707.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/09f5eb3a45ec09cbffef3ad822198ae1/Screenshot_1724145419.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/2659027e5a43c767462a5750c3e249fc/Screenshot_1724138712.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/5c9babf594faefa95563e93690763b7d/Screenshot_1724138728.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/49732c85438c1986a11c42a4b6fc08ff/Screenshot_1724138739.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/5cff74ab13e3ad04ef70e0060a2e14bb/Screenshot_1724138748.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/3aaf429485072fd9333ac62834940fda/Screenshot_1724138753.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/dd3addbc71c269c560ad86bed32b8668/Screenshot_1724138758.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/e14995eff20c9ada5db1ae7c1fe64e2e/Screenshot_1724138765.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/45fc8013eb7fcba849a3e6a4cf78cb94/Screenshot_1724138771.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/f292c0af3e9215b79f8db9bba7030f3d/Screenshot_1724138778.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/dd4c2f9e7eb863124075de4c8cc49f7e/Screenshot_1724138795.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/8be6cf5507b9dac9a3b75113d781dbfe/Screenshot_1724138800.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/cab3821e9ec45f301b32df843ec8d12b/Screenshot_1724138854.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/80aea06e66d570c260ac4dca526d1a32/Screenshot_1724138864.png" width="200"/>
 
 ---
 
-### Mascip
-An application for reporting and maintaining tugboat tasks (Internal Application),I only work on the front end
+### Mascip - Tugboats Manager
+Aplikasi untuk laporan dan maintenance tugboats (kapal kecil)
+#### Teknologi:
+- Flutter
+- BLoC
+- Hive
+#### Fitur yang saya kerjakan:
+- Modul kelola barang
+- Modul kelola kebersihan
+- Modul kelola maintenace
+- Modul kelola kerusakan
+- Modul kelola permintaan barang
+#### Kontribusi:
+- Koding front end
 
 <img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/53e105ef-3093-4df8-b308-fd8537806dde" width="200"/> 
 <img src="https://github.com/ayyuby26/ayyuby26/assets/18584572/ab8468b3-429b-46b2-974f-6073f77cadd5" width="200"/>  
@@ -62,8 +152,16 @@ An application for reporting and maintaining tugboat tasks (Internal Application
 ---
 
 
-### Sample Graphql
-contoh sederhana penerapan graphql di flutter
+### Sample Graphql Request & Response
+Aplikasi demo sederhana untuk melakukan request dan response dengan graphql
+#### Teknologi:
+- Flutter
+- graphql
+#### Fitur yang saya kerjakan:
+- custom request
+- menampilkan response graphql
+#### Kontribusi:
+- Koding front end
 
 Download APK: https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true
 
@@ -73,18 +171,22 @@ repository: https://github.com/ayyuby26/sample_graphql
 
 -------
 
-### Google Maps Clean Architecture + SOLID Principle
-contoh sederhana penerapan Google Maps Clean Architecture + SOLID Principle
-
-#### implement:
+### Map Manager
+pencarian rumah sakit dan restaurant dengan API Google Map dengan Clean Architecture + SOLID Principle
+#### Teknologi:
+- Flutter 
+- Google Map
+- BLoC
+- get_it
+#### Fitur yang saya kerjakan:
+- pencarian rumah sakit dan restoran
+#### Kontribusi:
+- Koding front end
+#### implementasi:
 - clean architecture
 - solid principle
 - one testing example
 - singleton
-
-#### tech stack:
-- state management = BLoC
-- depedency injection = get_it
 
 Download APK: [https://github.com/ayyuby26/sample_graphql/blob/main/app-release.apk?raw=true](https://github.com/ayyuby26/game-cosign/raw/master/app-release.apk)
 
@@ -94,38 +196,56 @@ repository: [https://github.com/ayyuby26/sample_graphql](https://github.com/ayyu
 
 -------
 
-### Oresa
-Penyalur produk uji coba berjenis _fast moving consumer goods_ agar mendapat ulasan dari reviewer online
+### Oresa - Product Tester
+Penyalur produk uji coba berjenis _fast moving consumer goods_ agar mendapat ulasan dari reviewer online yang daftar di aplikasi ini
+#### Teknologi:
+- Flutter 
+- Auto Route
+- BLoC
+- onesignal
+- hive
+#### Fitur yang saya kerjakan:
+- Form dinamis (seperti google form diatur by API)
+- migrasi proyect dari flutter 2.X.X ke flutter 3.X.X
+#### Kontribusi:
+- Koding front end
 
 Download: [PlayStore](https://play.google.com/store/apps/details?id=com.omg_indo.oresa) | [AppStore](https://apps.apple.com/id/app/oresa/id1528505005)
-
-frontend tech stack:
-- State Management = bloc
-- router manager   = auto_route
-- local storage    = hive
-- notification     = onesignal
 
 <img src="https://user-images.githubusercontent.com/18584572/217563802-acddd085-f2ca-4639-9f9f-c862afc3eb8c.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564006-397acd93-a9be-4e10-8026-d9e7da7bf17e.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564696-9f65a3be-1502-49fa-834d-016aec6208fd.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564354-d1b3f9d9-a40f-4374-8351-2ae29cf4da83.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/217564449-cf1e72c1-6ddd-4e16-982c-32d668b35034.jpg" width="200"/> 
 
 -------
 
-### Pesut Mahakam
-Digunakan agar masyarakat kalimantan Timur dapat deng`an mudah membuat laporan yang membutuhkan bantuan polisi.
+### Pesut Mahakam - Bantuan Polisi Untuk Masyarakat Kalimantan Timur
+Digunakan agar masyarakat kalimantan Timur dapat dengan mudah membuat laporan yang membutuhkan bantuan polisi
+#### Teknologi:
+- Flutter 
+- GetX
+#### Fitur yang saya kerjakan:
+- modul laporan kejadian
+- modul public service
+- gps tracker
+#### Kontribusi:
+- Koding front end
 
-Download: https://play.google.com/store/apps/details?id=com.poldakaltim.pesutmahakam
+Download: [PlayStore](https://play.google.com/store/apps/details?id=com.poldakaltim.pesutmahakam)
 
 <img src="https://user-images.githubusercontent.com/18584572/175761237-dc7fbd5f-662d-45de-8822-6920107dfd76.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761273-224c70c8-ed93-47f9-a5e5-904831ef516e.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761291-aaba0c0b-32e3-44b2-bcef-7a537ea2e5a8.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175761308-6dbb5999-33bf-4580-a607-b97873de8e6b.jpg" width="200"/> 
 
 -------
 
-
-### mPIMS
+### mPIMS - Kelola Data Kelapa Sawit
 aplikasi yang berfungsi untuk mencatat hasil panen kelapa sawit. 90% offline, data local sebagai penyimpanan utama menggunakan hive dengan query yang dioptimalkan agar berjalan cepat
-
-tugas saya dalam aplikasi ini:
-- memperbaiki bug2
+#### Teknologi:
+- Flutter
+- Hive
+#### Fitur yang saya kerjakan:
+- import/export data no sql menjadi .json
+- memperbaiki bug relasi data antar role
 - menambahkan fitur pengelolaan data json
 - auto backup data ke kartu memori, dengan kondisi data terkompres, terenkripsi, dan tipe data kustom
+#### Kontribusi:
+- Koding front end
 
 <img src="https://user-images.githubusercontent.com/18584572/175760694-9799672a-b672-4ad6-98bf-84393cf330a4.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175760915-693abf4a-746f-4ae6-917c-7a8f3401caaf.jpg" width="400"/> <img src="https://user-images.githubusercontent.com/18584572/175760735-86b5da40-f967-43c7-ac59-320d082d53da.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/18584572/175760743-105b533a-e000-46e4-b8df-6e965ac6eb88.jpg" width="200"/>  <img src="https://user-images.githubusercontent.com/18584572/175760746-dc628ca7-b76d-4f71-9dbb-4c6e22565056.jpg" width="200"/> 
 
@@ -158,55 +278,97 @@ https://github.com/ayyuby26/stream_sample
 
 <!-- --- -->
 
-### ShipsApp
-#### Aplikasi Marketplace yang targetnya adalah pemilik PT di daerah pelabuhan menjual barang-barang / jasa keperluan kapal. Aplikasi ini dibuat saat masih bekerja. (dapat dicoba)
-#### sudah terpasang payment gateway midtrans dan xendit namun keduanya tidak jadi digunakan karena urusan principle
-#### sudah terpasang fitur notifikasi (firebase) namun ntah kenapa tidak digunakan, sampai saya resign
-#### note: terakhir kali saya lihat aplikasinya, terdapat perubahan data di API, sehingga terdapat satu halaman tidak dapat load dengan baik  
-#### Link Playstore: https://play.google.com/store/apps/details?id=com.ssd.shipsapp  
-#### Perbaikan UI (not publish) : https://www.youtube.com/watch?v=6Soa_TI9rck&pp=sAQA
+### ShipsApp - Ships Marketplace
+Aplikasi Marketplace yang targetnya adalah pemilik PT di daerah pelabuhan menjual barang-barang / jasa keperluan kapal.
+#### Teknologi:
+- Flutter
+- provider
+- payment gateway xendit & midtrans
+- google adsense
+#### Fitur yang saya kerjakan:
+- menampilkan informasi pelabuhan diindonesia
+- e-commerce
+#### Kontribusi:
+- Layouting UI
+- Koding front end
+
+Download: [PlayStore](https://play.google.com/store/apps/details?id=com.ssd.shipsapp)
 
 <img src="https://user-images.githubusercontent.com/18584572/128326353-07b033d9-f189-4a66-9958-a655dfa9a72d.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326348-729a7a4e-b19f-4ed1-a341-11b975cc3b15.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326342-f47e038f-1719-4b27-ac86-604a578d18cf.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326333-4006c2c4-37cf-4495-8b0b-91995ef658f3.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326325-cb2d6e6b-17a1-480e-adb2-c34be486dcc9.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326317-871f68e9-8276-4e07-a78c-e1aeaac66091.jpg" width="200"  /> <img src="https://user-images.githubusercontent.com/18584572/128326304-883900c3-4394-4695-946a-eca9026999c3.jpg" width="200"  />
-
-#### disclaimer: screenshot diatas adalah UI yang sudah diperbaiki dan sedangkan di playstore merupakan versi awal
 
 -------
 
 ### Timeheet
-#### Mempermudah untuk memantau pekerjaan di lapangan, misalnya petugas menaik/menurunkan barang dari kapal lalu menulis aktivitas tersebut diaplikasi, lalu atasannya dapat melihat aktivitas tersebut (untuk kepentingan internal, tidak dapat registrasi)
-#### Link play store : https://play.google.com/store/apps/details?id=com.ssd.timesheet
+### ShipsApp - Ships Marketplace
+Memantau pekerjaan di lapangan, seperti petugas menaik/menurunkan barang dari kapal lalu menulis aktivitas tersebut pada aplikasi, lalu atasannya dapat melihat aktivitas tersebut
+#### Teknologi:
+- Flutter
+- provider
+#### Fitur yang saya kerjakan:
+- menampilkan informasi Tugas
+#### Kontribusi:
+- Layouting UI
+- Koding front end
+
 <img src="https://user-images.githubusercontent.com/18584572/147854901-68235e39-a783-4788-9792-473303cd85f5.png" width="200"  /> <img src="https://play-lh.googleusercontent.com/lj3kR54g95qBe0PGeoo7UAoBoOHWXMrtkwtI1p99MAjc43BgcqHx_S9plPIJ31bKaZA=w1920-h963" width="200"  /> <img src="https://play-lh.googleusercontent.com/M6FnW7qsfVBGBJ40FxrNKmbI6QYHQl3EIK7wCRQg_9JhZ8fGiPo7siSm0GclO0dtxpMX=w1920-h963" width="200"  /> <img src="https://play-lh.googleusercontent.com/NNeqda22waDGStud_li_E54U6deCEcatIfyxsY-V3c20QnRjFH2Hb1wUPEQ8CoRzsH1B=w1920-h963" width="200"  /> <img src="https://play-lh.googleusercontent.com/vyDt-h83xKi9GX7Yyy52zkRvoCJHSsQaqkdoqCNYnsbDN0th_VKtEuAwUqY7xGBbcSsk=w1920-h963" width="200"  />
 
 -------
 
-### MyNote
-#### aplikasi untuk membuat catatan
-#### https://github.com/ayyuby26/mynote
+### MyNote - Aplikasi pencatatan
+Aplikasi untuk membuat catatan, dengan editor teks yang cukup komplit seperti, bold, garis bawah, 
+#### Teknologi:
+- Flutter
+- quill_delta
+- notus
+- get
+- provider
+- zefyr
+#### Fitur yang saya kerjakan:
+- pencatatan
+#### Kontribusi:
+- Layouting UI
+- Koding front end
+
+[repository](https://github.com/ayyuby26/mynote)
+
 <img src="https://user-images.githubusercontent.com/18584572/128185515-85ed9892-0579-42f5-94ef-f2e601335f2e.png" width="900"  />
 
 -------
 
 ### Permohonan SKCK Online
-https://github.com/ayyuby26/permohonan-skck-online
-#### digunakan untuk membantu para pencari kerja yang ingin membuat surat pengantar rt untuk membuat skck, dengan aplikasi ini para pencari kerja dimudahkan untuk membuat surat pengantar tersebut tanpa menggunakan komputer, dengan catatan tetap membutuhkan stempel dari RT setempat agar dokumen yang di cetak menjadi sah.  
+Digunakan untuk membantu para pencari kerja yang ingin membuat surat pengantar rt untuk membuat skck, dengan aplikasi ini para pencari kerja dimudahkan untuk membuat surat pengantar tersebut tanpa menggunakan komputer, dengan catatan tetap membutuhkan stempel dari RT setempat agar dokumen yang di cetak menjadi sah
+#### Teknologi:
+- Flutter
+- pdf
+- printing
+- intl
+#### Fitur yang saya kerjakan:
+- membuat pdf
+- print dokumen pdf
+#### Kontribusi:
+- Layouting UI
+- Koding front end
+
+[repository](https://github.com/ayyuby26/permohonan-skck-online)
+
 <img src="https://user-images.githubusercontent.com/18584572/128187516-b24c207e-746f-41a8-9957-3ccf6166d6b0.png" width="1000"  />
 
 -------
 
 ### Info Covid
-https://github.com/ayyuby26/Info_Covid
-#### Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
- <img src="https://user-images.githubusercontent.com/18584572/128621692-d3d20603-95df-4db9-a3ed-420e7555eac6.jpg"  width="300"  /> <img src="https://user-images.githubusercontent.com/18584572/128621676-ec42a37a-a778-4662-81f6-8fe5e49ec82f.jpg" width="300"  />
+Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
+#### Teknologi:
+- get
+- http
+- intl
+- shimmer
+#### Fitur yang saya kerjakan:
+- menampilkan korban covid
+#### Kontribusi:
+- Layouting UI
+- Koding front end
 
-<!---
-- 👋 Hi, I’m @ayyuby26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[repository](https://github.com/ayyuby26/Info_Covid)
 
-
-ayyuby26/ayyuby26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://user-images.githubusercontent.com/18584572/128621692-d3d20603-95df-4db9-a3ed-420e7555eac6.jpg"  width="300"  /> <img src="https://user-images.githubusercontent.com/18584572/128621676-ec42a37a-a778-4662-81f6-8fe5e49ec82f.jpg" width="300"  />
 
