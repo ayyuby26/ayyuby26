@@ -8,7 +8,7 @@
  ### POS Ayyuby
  [figma](https://www.figma.com/design/31AuUiIvXUfXUU9XvM64CU/stock-app?node-id=0-1&t=dOGdKKtmhoswCGIm-1)
  
- <img src="https://gitlab.com/-/project/44357593/uploads/a894a7c986338fe5fc087691f72b2e89/Frame_1.png" width="1000"/> 
+ <img src="https://github.com/user-attachments/assets/a8e6a3a4-89d0-46a6-8d5f-a4748b67b7dc" width="1000"/> 
 
 
 # Project yang pernah dikerjakan
