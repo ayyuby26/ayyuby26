@@ -13,6 +13,20 @@
 
 # Project yang pernah dikerjakan
 
+### Time Tracker
+menerapkan mvvm
+
+#### Teknologi:
+- Java Android
+
+#### Kontribusi:
+- Rancang UI
+- Koding front end
+
+[repository](https://gitlab.com/anehidup/time-tracker)
+
+<img src="https://gitlab.com/-/project/44357593/uploads/318172b8df4459c559db4b962b47b3dc/image.png" width="200"/>
+
 ### Pembayaran SPP
 Untuk menyimpan data pembayaran SPP
 #### Teknologi:
