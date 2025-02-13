@@ -13,7 +13,7 @@
 
 # Project yang pernah dikerjakan
 
-### Saklar dengan koneksi WiFi (IoT)
+### Saklar dengan koneksi WiFi (arduino)
 
 #### Teknologi:
 - esp32
