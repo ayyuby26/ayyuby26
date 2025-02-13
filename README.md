@@ -13,6 +13,26 @@
 
 # Project yang pernah dikerjakan
 
+### Slicing UI to Flutter
+
+#### Teknologi:
+- Flutter
+- Provider
+
+#### Kontribusi:
+- Koding front end
+
+[warehouse apk](https://gitlab.com/-/project/44357593/uploads/a1dd33b9603a0fdf9bd5e6efe10ca82d/warehouse-app-farma.apk) | [delivery apk](https://gitlab.com/-/project/44357593/uploads/d14f3336cdd403fff2e1270f6599602d/delivery-app-farma.apk)
+
+<img src="https://github.com/user-attachments/assets/2a358fd3-c6fc-4858-83c0-010d7032c86f" width="200"/>
+<img src="https://github.com/user-attachments/assets/54ebd3d5-a4e2-4f41-a0c7-2d19bbdc74de" width="200"/>
+<img src="https://github.com/user-attachments/assets/fa678228-8c96-48d5-89ff-56e9d0114b91" width="200"/>
+<img src="https://github.com/user-attachments/assets/efbf1ffb-b03a-42d7-8479-6744cc32cca3" width="200"/>
+<img src="https://github.com/user-attachments/assets/73bd4f71-30ea-419a-838a-15bda97603d3" width="200"/>
+
+
+<!-- <img src="https://gitlab.com/-/project/44357593/uploads/318172b8df4459c559db4b962b47b3dc/image.png" width="200"/> -->
+
 ### Time Tracker
 menerapkan mvvm
 
