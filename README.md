@@ -19,9 +19,6 @@
 - esp8266
 - relay
 
-#### Kontribusi:
-- Koding
-
 [demo video](https://gitlab.com/-/project/44357593/uploads/f596f3dc0c10154da64b0108902df2ad/WhatsApp_Video_2025-02-13_at_10.20.34.mp4)
 
 <img src="https://github.com/user-attachments/assets/ad0d7a3d-8c61-406d-86e9-54c380fe9d51" width="200"/>
