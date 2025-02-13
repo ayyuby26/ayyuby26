@@ -16,7 +16,7 @@
 ### Saklar dengan koneksi WiFi (IoT)
 
 #### Teknologi:
-- esp8266
+- esp32
 - relay
 
 [demo video](https://gitlab.com/-/project/44357593/uploads/f596f3dc0c10154da64b0108902df2ad/WhatsApp_Video_2025-02-13_at_10.20.34.mp4)
