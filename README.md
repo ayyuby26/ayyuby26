@@ -147,7 +147,7 @@ Aplikasi untuk jual beli barang yang berkaitan dengan golf
 - hadiah poin
 - multi role
 #### Kontribusi:
-- Koding front end
+- Koding front end & backend
 - Kelola Publishing di App Store
 
 Download: [PlayStore](https://play.google.com/store/apps/details?id=id.asiagolf.app) | [AppStore](https://apps.apple.com/id/app/era-mobile-era-indonesia/id6633417013)
@@ -155,9 +155,6 @@ Download: [PlayStore](https://play.google.com/store/apps/details?id=id.asiagolf.
 <img src="https://gitlab.com/-/project/44357593/uploads/60e57c118af23bc5322b7a4a81957825/Screenshot_1724139060.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/3c5d9e72c561254431f6d484c305f934/Screenshot_1724148715.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/aed977d7264af85283aee44ae43fdb82/Screenshot_1724139066.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/9c38c59ae1d89ef8b01a41443ce2c346/Screenshot_1724139070.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/fb73707147e778148ebcfc1e3ef06656/Screenshot_1724139076.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/2a97b3cee5425606483f379c544f579b/Screenshot_1724139079.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/ac44e710b0b764136d80612091dad766/Screenshot_1724139115.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/a6213847dc608ed675675190a28ba5bd/Screenshot_1724139124.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/7c81e7363fe7c0388be7d4857cbec49e/Screenshot_1724139139.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/3063ae38bee5604bb179defbb41ed044/Screenshot_1724139176.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/370fe6b75ce1b513da199468c208ddd5/Screenshot_1724139180.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/0d146f55c145d78a623e4a93d7a7fdf9/Screenshot_1724139186.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/cd4649932c51d2493a6401d471107602/Screenshot_1724139193.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/9ac8d9cc876bb8b84984260a68b63313/Screenshot_1724139250.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/f1d9876d1782346d05f2ffd8997e6292/Screenshot_1724139258.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/1744bff313ec9a8a0da74ad59ec633d2/Screenshot_1724139275.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/d44251d36ae795ac6984a24e88a51f54/Screenshot_1724139284.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/8d0701cf5dd11906ba5c4e164f6a082f/Screenshot_1724139300.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/cafa53ce0c9e00e6712495636c1b000c/Screenshot_1724139307.png" width="200"/>
 
 ---
-
-### 
-An internal application that has various roles for warehouse stock, shipping of goods, transactions, and attendance, and I only work on the front end
 
 ### WMS Asia Internal - Internal Perusahaan & dashboard Asiagolf Points 
 Aplikasi semacam admin dashboard untuk kelola kar aplikasi Asiagolf points yang mengatur seperti pengiriman barang, kelola barang, lomba golf, kehadiran karyawan.
@@ -168,7 +165,7 @@ Aplikasi semacam admin dashboard untuk kelola kar aplikasi Asiagolf points yang 
 #### Fitur yang saya kerjakan:
 - Modul kompetisi, training, tanya stok, dan mengupdate modul-modul yang sudah ada
 #### Kontribusi:
-- Koding front end
+- Koding front end & backend
 
 <img src="https://gitlab.com/-/project/44357593/uploads/4cbb29c6196a5712f189f46fcc1dd95b/Screenshot_1724138707.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/09f5eb3a45ec09cbffef3ad822198ae1/Screenshot_1724145419.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/2659027e5a43c767462a5750c3e249fc/Screenshot_1724138712.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/5c9babf594faefa95563e93690763b7d/Screenshot_1724138728.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/49732c85438c1986a11c42a4b6fc08ff/Screenshot_1724138739.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/5cff74ab13e3ad04ef70e0060a2e14bb/Screenshot_1724138748.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/3aaf429485072fd9333ac62834940fda/Screenshot_1724138753.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/dd3addbc71c269c560ad86bed32b8668/Screenshot_1724138758.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/e14995eff20c9ada5db1ae7c1fe64e2e/Screenshot_1724138765.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/45fc8013eb7fcba849a3e6a4cf78cb94/Screenshot_1724138771.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/f292c0af3e9215b79f8db9bba7030f3d/Screenshot_1724138778.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/dd4c2f9e7eb863124075de4c8cc49f7e/Screenshot_1724138795.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/8be6cf5507b9dac9a3b75113d781dbfe/Screenshot_1724138800.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/cab3821e9ec45f301b32df843ec8d12b/Screenshot_1724138854.png" width="200"/> <img src="https://gitlab.com/-/project/44357593/uploads/80aea06e66d570c260ac4dca526d1a32/Screenshot_1724138864.png" width="200"/>
 
