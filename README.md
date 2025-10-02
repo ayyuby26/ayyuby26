@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayyuby
-- 👀 I’m interested in UI/UX, Flutter, Web
+- 👀 I’m interested in UI/UX, Flutter, backend
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shalahudin-al-ayyuby-2b4986178)
 <!-- - 🌱 I’m currently learning ...
  - 💞️ I’m looking to collaborate on ... -->
